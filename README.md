@@ -1,6 +1,8 @@
 # Oi, sou a Leonardo! | Hi, I'm Leonardo!
 
-### About me
+
+
+### :smiley:  About me
 
 - I'm a Computer Science student
 - I'm working on LATAD (Laboratório de Tecnologias Assistivas Digitais)
@@ -18,3 +20,10 @@
 > Sempre gostei muito da ideia de mexer com computadores, assistia filmes e séries e
 > ficava me identificando com o “nerd” da história, tanto que me direciono para ser
 > um “nerd” mais O NERD. Quero sempre dar o meu melhor e me destacar de maneira positiva.
+
+### 👩‍💻 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1952&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 📊 My Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo1952&show_icons=true&theme=tokyonight)
