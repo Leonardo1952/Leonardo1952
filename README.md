@@ -8,6 +8,10 @@
 - I'm working on LATAD (Laboratório de Tecnologias Assistivas Digitais)
 - I love programming, mainly front-end
 
+> Sempre gostei muito da ideia de mexer com computadores, assistia filmes e séries e
+> ficava me identificando com o “nerd” da história, tanto que me direciono para ser
+> um “nerd” mais O NERD. Quero sempre dar o meu melhor e me destacar de maneira positiva.
+
 ### 💻 Tech Stacks
 
 - Python | C# | Dart
@@ -16,10 +20,6 @@
 - HTML, CSS, Bootstrap, Js
 - Figma, Adobe XD, Photoshop
 
-
-> Sempre gostei muito da ideia de mexer com computadores, assistia filmes e séries e
-> ficava me identificando com o “nerd” da história, tanto que me direciono para ser
-> um “nerd” mais O NERD. Quero sempre dar o meu melhor e me destacar de maneira positiva.
 
 ### 👩‍💻 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1952&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
