@@ -5,7 +5,7 @@
 ### :smiley:  About me
 
 - I'm a Computer Science student
-- I'm working on LATAD (Laboratório de Tecnologias Assistivas Digitais)
+- I'm working on Oxeanbits
 - I love programming, mainly front-end
 
 > Sempre gostei muito da ideia de mexer com computadores, assistia filmes e séries e
