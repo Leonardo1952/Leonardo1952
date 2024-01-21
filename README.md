@@ -1,10 +1,8 @@
 # Oi, sou a Leonardo! | Hi, I'm Leonardo!
 
-
-
 ### :smiley:  About me
 
-- I'm a Computer Science student
+- I have a bachelor's degree in Computer Science
 - I'm working on Oxeanbits
 - I love programming, mainly front-end
 
@@ -14,10 +12,10 @@
 
 ### 💻 Tech Stacks
 
-- Python | C# | Dart
+- Python | C# | Dart | Ruby
 - Unity 3D
 - Flutter
-- HTML, CSS, Bootstrap, Js
+- HTML, CSS, Js
 - Figma, Adobe XD, Photoshop
 
 
